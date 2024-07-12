@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 # Importamos la función de predicción desde el script del modelo
 
-from modelo_rnn import predict_comment
+from modelo_lr import predict_comment
 
 # Creamos la interfaz de Streamlit
 
